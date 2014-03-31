@@ -1,0 +1,1 @@
+This is a visualization of common motifs in novels by Haruki Murakami. Inspired by <a href=http://www.incidentalcomics.com/2012/06/haruki-murakami-bingo.html>Murakami Bingo</a> and the author himself. Enjoy and read Murakami! Created by <a href=mailto:nbilenko@berkeley.edu>Natalia Bilenko</a>.
